@@ -1,6 +1,3 @@
-This is a fork by Jason Setiawan.
-
-
 Media Player Classic - Home Cinema (MPC-HC) is a free and open-source (OSS) video
 and audio player for Windows. MPC-HC is based on the original Guliverkli project
 and contains many additional features and bug fixes.
