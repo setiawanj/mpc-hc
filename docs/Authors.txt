@@ -1,6 +1,7 @@
 Active (sorted by name)
 -----------------------
 Jason Setiawan			<jasons@worldmanager.com>				Forker
+Bob Bobson				<bob@bob.com>							Bob
 Goran 'vBm' Džaferi     <thevbm@users.sourceforge.net>          New website, Trac moderator, IRC
 JellyFrog               -                                       Server and Trac admin, Swedish
 kasper93                <kasper93@users.sourceforge.net>        Trac moderator, Polish, Code
